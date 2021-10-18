@@ -1,6 +1,6 @@
 # plantsy
 
-![alt text](https://raw.githubusercontent.com/iEmDevX/plantsy/main/preview.jpeg)
+![alt text](https://raw.githubusercontent.com/iEmDevX/plantsy/main/preview.png)
 
 ## Getting Started
 
